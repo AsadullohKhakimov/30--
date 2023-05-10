@@ -1,0 +1,759 @@
+.MP3-sayt{
+    position: relative;
+width: 1440px;
+height: 4632px;
+
+background: #FFFFFF;
+}
+
+
+.for-the-first-page {
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+/* background: url(matt-gross-RO3-oMM3s8A-unsplash.jpg); */
+background: black;
+
+} 
+
+.header-part-1 {
+    position: absolute;
+width: 53px;
+height: 80px;
+left: 122px;
+top: 47px;
+
+font-family: 'Libre Barcode 128 Text';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 80px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.header-part-2{
+    position: absolute;
+width: 53px;
+height: 26px;
+left: 365px;
+top: 74px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.header-part-3 {
+    position: absolute;
+width: 56px;
+height: 26px;
+left: 518px;
+top: 74px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.header-part-4 {
+    /* ABOUT */
+
+
+position: absolute;
+width: 61px;
+height: 26px;
+left: 674px;
+top: 74px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.header-part-5 {
+    position: absolute;
+    width: 59px;
+    height: 26px;
+    left: 835px;
+    top: 74px;
+    
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.MUSIC-PLAYER{
+    /* MUSIC PLAYER */
+
+
+position: absolute;
+width: 412px;
+height: 264px;
+left: 115px;
+top: 291px;
+
+font-family: 'Kenia';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 150px;
+
+color: #FFFFFF;
+}
+
+.American-company-formed-in-2002-in-Boston-Massachusetts{
+    /* American company formed in 2002 in Boston, Massachusetts */
+
+
+position: absolute;
+width: 290px;
+height: 63px;
+left: 122px;
+top: 730px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+
+.Flat-iPhone-1 {
+    /* Flat iPhone 1 */
+
+
+position: absolute;
+width: 500px;
+height: 888.01px;
+left: 865px;
+top: 127px;
+
+background: url(Flat-iPhone-1.png);
+}
+
+.kabel---- {
+    /* kabel_apple_mxly2zm_a_lightning_m_usb_a_m_1m_mfi_belyy_1346033_2 1 */
+
+
+position: absolute;
+width: 350px;
+height: 350px;
+left: 913px;
+top: 862px;
+
+background: url(kabel.png);
+mix-blend-mode: screen;
+}
+
+/* second-page Starts from this side */
+
+.for-the-second-page {
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 1024px;
+
+background: #D53005;
+}
+
+.Music {
+    /* Music */
+
+
+position: absolute;
+width: 84px;
+height: 35px;
+left: 122px;
+top: 83px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.Rectangle-6 {
+    /* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 382px;
+height: 83px;
+left: 122px;
+top: 385px;
+
+background: radial-gradient(98.43% 2084.95% at 1.57% 7.83%, #B13E18 0%, #F3501A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+mix-blend-mode: normal;
+border: 1px solid rgba(0, 0, 0, 0.5);
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5), -4px -4px 30px rgba(255, 255, 255, 0.1);
+}
+
+.Rectangle-7{
+    /* Rectangle 7 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 382px;
+height: 83px;
+left: 122px;
+top: 556px;
+
+background: radial-gradient(98.43% 2084.95% at 1.57% 7.83%, #B13E18 0%, #F3501A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+mix-blend-mode: normal;
+border: 1px solid rgba(0, 0, 0, 0.5);
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5), -4px -4px 30px rgba(255, 255, 255, 0.1);
+}
+
+.Disk {
+    /* seyi-ariyo-6YgYRcyQK_s-unsplash-PhotoRoom 1 */
+
+
+position: absolute;
+width: 1000px;
+height: 666.5px;
+left: 440px;
+top: 179px;
+
+background: url(Disk.png)
+}
+
+.Listen-now {
+/* Listen now */
+
+
+position: absolute;
+width: 196px;
+height: 47px;
+left: 215px;
+top: 403px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.Find-a-song {
+/* Find a song... */
+
+
+position: absolute;
+width: 233px;
+height: 47px;
+left: 197px;
+top: 574px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.p1 {
+    font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+color: white;
+    margin: 10px 0 0px 102px;
+}
+
+.p2 {
+    font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+color: white;
+    margin: 10px 0 0px 102px;
+}
+
+
+/*2-page Ends to this side */
+
+
+/* start for-the-therd-page */
+
+
+.for-the-therd-page {
+/* Desktop - 3 */
+
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 2048px;
+
+background: linear-gradient(180deg, #D53005 0%, #000000 6.04%);
+}
+
+.About {
+    /* About */
+
+
+position: absolute;
+width: 81px;
+height: 35px;
+left: 122px;
+top: 83px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.MusicPlayer {
+    /* MusicPlayer gives you instant access to millions of songs – from old favorites to the latest hits. Just hit play to stream anything you like. */
+
+
+position: absolute;
+width: 969px;
+height: 72px;
+left: 275px;
+top: 476px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+}
+
+
+/* end for-the-therd-page */
+
+
+/* start for-the-fourth-page */
+
+
+.for-the-fourth-page {
+    /* Desktop - 4 */
+
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 3072px;
+
+background: #D53005;
+}
+
+.Store2 {
+    /* Store */
+
+
+position: absolute;
+width: 73px;
+height: 35px;
+left: 122px;
+top: 83px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.Rectangle-19 {
+    /* Rectangle 19 */
+
+
+position: absolute;
+width: 240px;
+height: 60px;
+left: 110px;
+top: 254px;
+
+background: rgba(2, 2, 2, 0.9);
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25), -4px -4px 4px rgba(255, 255, 255, 0.1);
+border-radius: 30px;
+}
+
+.Download{
+    /* Download Windows x64 */
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 22px;
+    top: -5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.Rectangle-20 {
+    /* Rectangle 20 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 240px;
+height: 60px;
+left: 110px;
+top: 362px;
+
+background: #E3E3E3;
+border: 1px solid rgba(0, 0, 0, 0.7);
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25), -4px -4px 4px rgba(255, 255, 255, 0.1);
+border-radius: 30px;
+}
+
+.Download-MacOS{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 22px;
+    top: -5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.Нужна-предыдущая{
+    /* Нужна предыдущая версия MPlayer? */
+
+
+position: absolute;
+width: 419px;
+height: 28px;
+left: 25px;
+top: 557px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 26px;
+
+color: #FFFFFF;
+}
+
+.Вы-можете-скачать {
+    /* Вы можете скачать одну из предыдущих версий MPlayer, которая совместима с нужной вам версией операционной системы и определёнными устройствами. Выберите предыдущую версию MPlayer */
+
+
+position: absolute;
+width: 431px;
+height: 110px;
+left: 19px;
+top: 602px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.Dark-Screen {
+/* Dark Screen */
+
+
+position: absolute;
+width: 934.2px;
+height: 611.98px;
+left: 455.38px;
+top: 174.8px;
+
+/* default/shade/black */
+
+background: #000000;
+border-radius: 22px 22px 0px 0px;
+}
+
+.Rectangle-8 {
+    /* Rectangle 8 */
+
+
+position: absolute;
+width: 885.52px;
+height: 583px;
+left: 479.72px;
+top: 203.77px;
+
+background: linear-gradient(270deg, #484D54 0%, #343B43 100%);
+}
+
+.Groove {
+    /* Groove */
+
+background: url(Groove.png);
+position: absolute;
+width: 193.49px;
+height: 16.23px;
+left: 824px;
+top: 806.48px;
+
+background: url(Groove.png) linear-gradient(90deg, #3C3C3C 9.86%, rgba(60, 60, 60, 0) 35.92%, rgba(60, 60, 60, 0) 64.08%, #444444 91.93%), #96A1A8;
+}
+
+.Bottom-Curve {
+    /* Bottom Curve */
+
+
+position: absolute;
+width: 1168.32px;
+height: 13.91px;
+left: 336px;
+top: 827.34px;
+background: url(Bottom-Curve.png);
+background:url(Bottom-Curve.png) linear-gradient(180deg, #7A7F83 0%, #0B0B0E 100%), #647279;
+}
+
+
+/* End for-the-fourth-page */
+
+/* Start for-the-fifth-page */
+.for-the-fifth-page {
+    /* Desktop - 5 */
+
+
+position: absolute;
+width: 1440px;
+height: 536px;
+left: 0px;
+top: 4096px;
+
+background: linear-gradient(180deg, #D53005 0%, #000000 4.01%);
+}
+
+.MUSIC-PLAYER2 {
+    /* MUSIC PLAYER */
+
+
+position: absolute;
+width: 138px;
+height: 100px;
+left: 110px;
+top: 344px;
+
+font-family: 'Kenia';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 50px;
+
+color: #FFFFFF;
+
+}
+
+
+.MPlayer{
+    /* © MPlayer Inc., 2022 г. Все права защищены. */
+
+
+position: absolute;
+width: 346px;
+height: 18px;
+left: 106px;
+top: 444px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.Условия {
+    /* Условия использования */
+
+
+position: absolute;
+width: 197px;
+height: 18px;
+left: 551px;
+top: 444px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.Продажа {
+    /* Продажа и возврат */
+
+
+position: absolute;
+width: 154px;
+height: 18px;
+left: 847px;
+top: 444px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.Юридическая {
+    /* Юридическая информация */
+
+
+position: absolute;
+width: 219px;
+height: 18px;
+left: 1100px;
+top: 444px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.MPlayer-Store {
+    /* MPlayer Store Варианты оплаты Состояние заказа Помощь при покупке */
+
+
+position: absolute;
+width: 180px;
+height: 148px;
+left: 452px;
+top: 120px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.Ценности-MPlayer {
+    /* Ценности MPlayer Универсальный доступ Окружающая среда Конфиденциальность */
+
+
+position: absolute;
+width: 196px;
+height: 148px;
+left: 779px;
+top: 120px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;   
+}
+
+.Учётная-запись {
+    /* Учётная запись Управление вашим MPlayer ID Учётная запись MPlayer Store */
+
+
+position: absolute;
+width: 256px;
+height: 108px;
+left: 1122px;
+top: 120px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+
+/* End for-the-fifth-page */
